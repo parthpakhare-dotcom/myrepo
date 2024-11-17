@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 Code, Eat, Sleep, Repeat~~
+=======
+Code, Eat, Sleep, Repeat
+Trying to get it!
+>>>>>>> Stashed changes
